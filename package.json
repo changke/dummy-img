@@ -1,0 +1,15 @@
+{
+  "name": "dummy-img",
+  "version": "1.0.0",
+  "description": "Local server for dummy images.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "@changke",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
