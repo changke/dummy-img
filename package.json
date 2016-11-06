@@ -11,5 +11,9 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-connect": "^1.0.2"
   }
 }
