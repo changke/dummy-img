@@ -1,6 +1,6 @@
 {
-  "name": "dummy-img",
-  "version": "1.0.0",
+  "name": "dummy-img-server",
+  "version": "0.0.1",
   "description": "Local server for dummy images.",
   "main": "index.js",
   "scripts": {
